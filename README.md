@@ -18,4 +18,4 @@
 - Find the result above. 
 
 ## Live Link
--
+- https://anum23432.github.io/Installment-Calculator.gitub.io/
